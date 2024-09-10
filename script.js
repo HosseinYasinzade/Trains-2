@@ -15,3 +15,9 @@
 // else console.log(`The number ${userNumber} is odd`);
 
 // //////////////// Age Verification System /////////////////////////////
+
+// const userAge = +prompt("Please enter your age : ");
+
+// if (userAge >= 18) console.log("You are an adult");
+// else if (userAge >= 13 && userAge < 18) console.log("You are a teenager");
+// else console.log("You are a child");
